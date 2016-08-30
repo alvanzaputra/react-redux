@@ -1,14 +1,18 @@
 # LEARN REACT Redux
 
 Getting Started
-npm install
+```
+> npm install
+```
 
 Run an initial webpack build
-webpack
-
+```
+> webpack
+```
 Start the development server (changes will now update live in browser)
-npm run start
-
+```
+> npm run start
+```
 its really nice if someone can help
 
 thank
